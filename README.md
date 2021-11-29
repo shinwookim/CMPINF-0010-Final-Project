@@ -1,9 +1,8 @@
 # CMPINF-0010-Final-Project
 Final Project for 2221 CMPINF 0010 SEC1010 BIG IDEAS IN COMPUTING &amp; INFORMATION
 
-## Team
+## Team Name: USB-C's
 
-This project is written by USB-C.
 
 ### Team Members
 
