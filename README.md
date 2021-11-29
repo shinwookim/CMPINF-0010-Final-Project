@@ -9,6 +9,10 @@ Final Project for 2221 CMPINF 0010 SEC1010 BIG IDEAS IN COMPUTING &amp; INFORMAT
 - Shinwoo Kim — SHK148@pitt.edu
 - Kavin Sankar — KAS595@pitt.edu
 - Jonathan Ryu JHR25@pitt.edu
+
+### Description
+This github repository is about finding the best neighborhood in Pittsburgh using Python's data analysis framework - pandas. Our team used python pandas to analyze different data sets by coming up with metrics in determining a good neighborhood.
+
 ## References
 
 The following datasets were used:
